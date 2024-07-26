@@ -1,1 +1,1 @@
-bash: gunicorn: command not found
+web: gunicorn main:app
